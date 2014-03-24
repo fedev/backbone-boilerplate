@@ -14,6 +14,6 @@
     "modernizr": "2.7.1",
     "requirejs": "latest",
     "lodash": "2.4.1",
-    "normalize-css": "latest"
+    "bootstrap": "latest"
   }
 }
