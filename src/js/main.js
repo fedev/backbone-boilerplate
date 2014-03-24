@@ -2,7 +2,7 @@ require.config({
 
   paths: {
     'backbone' : '../vendor/backbone/backbone',
-    'jquery' : '../vendor/jquery/jquery',
+    'jquery' : '../vendor/jquery/dist/jquery',
     'underscore' : '../vendor/lodash/dist/lodash',
     'modernizr' : '../vendor/modernizr/modernizr',
     'handlebars' : '../vendor/handlebars/handlebars',
